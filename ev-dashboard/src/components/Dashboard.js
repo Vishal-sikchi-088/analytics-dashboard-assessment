@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { fetchData } from "../utils/api";
 import FilterBar from "./FilterBar";
+import Chart from "./Chart";
 
 const Dashboard = () => {
   const [data, setData] = useState([]);
@@ -26,6 +27,7 @@ const Dashboard = () => {
   return (
     <div>
       <FilterBar filters={filters} onFilterChange={handleFilterChange} />
+      <Chart data={filteredData} xKey="State" yKey="Electric Range" />
     </div>
   );
 };
