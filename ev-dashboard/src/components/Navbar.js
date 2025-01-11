@@ -5,8 +5,8 @@ const Navbar = () => {
     <nav style={styles.nav}>
       <h1 style={styles.title}>EV Analytics Dashboard</h1>
     </nav>
-  )
-}
+  );
+};
 
 const styles = {
   nav: {
