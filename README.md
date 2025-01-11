@@ -6,7 +6,7 @@ The objective of this assessment is to analyze the provided Electric Vehicle (EV
 
 ## Dataset
 
-The Electric Vehicle Population dataset is available in the [Electric Vehicle Population Data (CSV)](./data-to-visualize/Electric_Vehicle_Population_Data.csv) within this repository, for more information about the dataset visit [kaggle dataset](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population).
+The Electric Vehicle Population dataset is available in the [Electric Vehicle Population Data (CSV)](./data-to-visualize/Electric_Vehicle_Population_Data.csv) within this repository. For more information about the dataset, visit [Kaggle dataset](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population).
 
 **Note:** We've reduced the dataset in the repository to keep the data size small in the frontend bundle.
 
@@ -32,6 +32,11 @@ Your submission will be evaluated based on:
 - **Dashboard Design:** Clarity, aesthetics, and usability of the frontend dashboard.
 - **Insightfulness:** Effectiveness in conveying key insights about electric vehicles.
 
+## Live Dashboard
+
+You can view the live dashboard at the following URL:
+- [Live Dashboard](https://analytics-dashboard-assessment-xi.vercel.app/)
+
 ## Submission Guidelines
 
 - Fork this repository to your GitHub account.
@@ -42,4 +47,4 @@ Your submission will be evaluated based on:
   - vedantp@mapup.ai
   - ajayap@mapupa.ai
   - divyanshs@mapup.ai
-- Finally, please fill out the google form that you received via email to submit the assessment for review.
+- Finally, please fill out the Google form that you received via email to submit the assessment for review.
